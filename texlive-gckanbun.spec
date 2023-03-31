@@ -1,6 +1,6 @@
 Name:		texlive-gckanbun
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Kanbun typesetting for (u)pLaTeX and LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gckanbun
