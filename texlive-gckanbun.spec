@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Kanbun typesetting for (u)pLaTeX and LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gckanbun
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gckanbun
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gckanbun.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gckanbun.doc.r%{version}.tar.xz
